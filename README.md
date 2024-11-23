@@ -23,8 +23,8 @@ Step 6: End the program.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: RIYA P L
-RegisterNumber: 212223240141
+Developed by: sanjai R
+RegisterNumber: 212223040180
 */
 ```
 ```
